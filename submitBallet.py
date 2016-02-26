@@ -3,7 +3,7 @@ import requests
 import json
 
 emails = [
-
+    # emails go here
 ]
 
 def submit_ballet(email):
